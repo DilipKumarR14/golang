@@ -1,0 +1,21 @@
+{
+    "users": [
+      {
+        "name" : "airtel",
+        "symbol" : "@",
+        "share" : 23
+      },
+      {
+        "name" : "jio",
+        "symbol" : "!",
+        "share" : 17
+        
+      },
+      {
+        "name" : "idea",
+        "symbol" : "#",
+        "share" : 10
+        
+      }
+    ]
+  }
