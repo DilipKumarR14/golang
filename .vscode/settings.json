@@ -1,1 +1,4 @@
-{}
+{
+    "files.autoSave": "afterDelay",
+    "go.gopath": "~/go/src"
+}

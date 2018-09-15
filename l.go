@@ -66,7 +66,7 @@ func (list *List) display() {
 }
 // user struct which contains array of users
 type Users struct{
-    Users []User `json:"users`
+    Users []User `json:"users"`
 }
 type User struct {
 	Name   string `json:"name"`
