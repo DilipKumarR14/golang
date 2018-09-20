@@ -110,7 +110,5 @@ func main(){
         fmt.Println()
     }
 
-    for s.Len()>0 {
-		fmt.Println(s.pop())
-    }
+    
 }

@@ -135,6 +135,7 @@ func main(){
         l:=users.Users[i].Symbol
         link.Insert(l)
     }
+    fmt.Println(link)
     for i:=0;i<link.size;i++{
 
         s.push(i)

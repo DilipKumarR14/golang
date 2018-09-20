@@ -2,11 +2,14 @@ package main
 import ("fmt"
 "math/rand"
 "time"
+"utility"
 )
 
 func main(){
+	link := List{}
 	cards()
 }
+
 func cards(){
 	suit:=[4]string{"Clubs","Diamonds", "Hearts", "Spades"}
 	rank:=[13]string{"2", "3", "4", "5", "6", "7", "8", "9", "10","Jack", "Queen", "King", "Ace"}
